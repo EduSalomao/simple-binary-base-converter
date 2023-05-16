@@ -17,7 +17,7 @@ def definir_opcao():
         num.delete(0, tk.END)
         num2.delete(0, tk.END)
 
-    if opcao_selecionada is None:  # nao consegui fazer, mas, era para deixar o input de valores desativado.
+    if opcao_selecionada is None:
         num.config(state=tk.DISABLED)
         num2.config(state=tk.DISABLED)
 
