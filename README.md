@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Para utilizar o software é necessário somente baixar o arquivo converter.py e executa-lo num interpretador python.</p>
+<p align="left">Para utilizar o software é necessário somente baixar o arquivo conversor.py e executa-lo num interpretador python.</p>
 
 ###
 
